@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "Cache your mongoose queries",
   "main": "index.js",
+  "author": "Vitor Mattos Cavalcanti <vitor.mattos@caelum.com.br>",
   "scripts": {
     "test": "make test"
   },
